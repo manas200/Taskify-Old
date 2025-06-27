@@ -58,14 +58,8 @@ Fullstack NextJs 14 taskify app allowing users to create boards with lists and c
 
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Trello-Clone-NextJs-/main/screenshots/12.PNG)
 
-![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Trello-Clone-NextJs-/main/screenshots/13.PNG)
-
-![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Trello-Clone-NextJs-/main/screenshots/14.PNG)
-
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Trello-Clone-NextJs-/main/screenshots/15.PNG)
 
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Trello-Clone-NextJs-/main/screenshots/16.PNG)
-
-![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Trello-Clone-NextJs-/main/screenshots/17.PNG)
 
 
